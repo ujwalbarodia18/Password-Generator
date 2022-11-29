@@ -1,0 +1,70 @@
+body {
+    height: 175px;
+    width: 175px;
+    background-color: #448aff;
+    color: white;
+    font-size: 13px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 15px;
+}
+
+#lockimg {
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    padding: 0 auto;
+}
+
+#text_box {    
+    margin: 0 2% 2%;
+    height: 20px;
+    width: 90%;
+    border-radius: 8px;
+    padding: 0 3%;
+    font-size: 12px;
+}
+
+.row {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    margin: 5% 5%;
+}
+
+#lengthTaker {
+    width: 70%;
+    margin-left: 20%;
+    border-radius: 3px;
+    font-size: 13px;
+    border: none;
+    padding: 2px 5px;
+}
+
+.CheckRow {
+    width: 50%;
+    display: flex;    
+    flex-direction: column;
+    margin: 0 9% 0 0;
+}
+
+.CheckBox {
+    display: flex;
+    padding: 0;
+}
+
+.Check {
+    display: flex;
+}
+
+#Generate {
+    background-color: #ffc107;
+    color: black;
+    margin: 0 28% 7%;
+    border-radius: 5px;
+    border: none;
+    height: 23px;
+}
